@@ -79,9 +79,9 @@
 
 // **Capitalize First Letter:
 
-let t = document.querySelector ("input");
-let b = document.querySelector ("button");
+// let t = document.querySelector ("input");
+// let b = document.querySelector ("button");
 
-b.addEventListener("click", function (){
-    t.value = t.value.toUpperCase();
-});
+// b.addEventListener("click", function (){
+//     t.value = t.value.toUpperCase();
+// });
